@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Jorge Rios, @jotarios</title>
+  <desc id="heroDesc">Software engineer in Buenos Aires who builds fast infrastructure and publishes the benchmarks with it. A panel lists three shipped projects with measured results: chasquimq in Rust at 188,775 jobs per second, 3.47 times BullMQ; prism in Swift searching 27,604 indexed files in 8 milliseconds; unport in TypeScript using 2 ports shared by all projects.</desc>
+
+  <rect width="1200" height="420" rx="24" fill="#0a0e13"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#1e262f" stroke-width="1.5"/>
+
+  <!-- left: identity -->
+  <g transform="translate(72 0)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="2" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="2.4" fill="#6e7a86">SOFTWARE ENGINEER · BUENOS AIRES</text>
+
+    <text x="0" y="180" font-size="92" font-weight="800" letter-spacing="-2.5" fill="#e6edf3">Jorge Rios</text>
+
+    <text x="2" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" fill="#3fb950">@jotarios</text>
+
+    <text x="2" y="284" font-size="28" font-weight="500" fill="#9aa5b1">I build fast infrastructure and</text>
+    <text x="2" y="322" font-size="28" font-weight="500" fill="#9aa5b1">publish the benchmarks with it.</text>
+
+    <!-- motif: measure rule -->
+    <g transform="translate(2 354)" stroke="#2a3542" stroke-width="1.5">
+      <line x1="0" y1="0" x2="470" y2="0"/>
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#3fb950"/>
+      <line x1="58.75" y1="0" x2="58.75" y2="5"/>
+      <line x1="117.5" y1="0" x2="117.5" y2="5"/>
+      <line x1="176.25" y1="0" x2="176.25" y2="5"/>
+      <line x1="235" y1="0" x2="235" y2="10"/>
+      <line x1="293.75" y1="0" x2="293.75" y2="5"/>
+      <line x1="352.5" y1="0" x2="352.5" y2="5"/>
+      <line x1="411.25" y1="0" x2="411.25" y2="5"/>
+      <line x1="470" y1="0" x2="470" y2="10"/>
+    </g>
+    <text x="2" y="394" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#6e7a86">chasquimq.io · CS @ UTEC</text>
+  </g>
+
+  <!-- right: shipped and measured -->
+  <g transform="translate(648 60)">
+    <rect x="0" y="0" width="480" height="300" rx="14" fill="#10161d" stroke="#1e262f" stroke-width="1.5"/>
+    <text x="24" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.8" fill="#6e7a86">SHIPPED · MEASURED</text>
+    <line x1="0" y1="46" x2="480" y2="46" stroke="#1e262f" stroke-width="1.5"/>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+      <!-- chasquimq -->
+      <g transform="translate(0 46)">
+        <text x="24" y="30" font-size="21" fill="#e6edf3">chasquimq</text>
+        <text x="456" y="30" font-size="17" fill="#6e7a86" text-anchor="end">Rust</text>
+        <text x="24" y="64" font-size="27" font-weight="700" fill="#56d364">188,775 jobs/s</text>
+        <text x="456" y="64" font-size="17" fill="#6e7a86" text-anchor="end">3.47× BullMQ</text>
+      </g>
+      <line x1="24" y1="130" x2="456" y2="130" stroke="#1e262f" stroke-width="1.5"/>
+
+      <!-- prism -->
+      <g transform="translate(0 130)">
+        <text x="24" y="30" font-size="21" fill="#e6edf3">prism</text>
+        <text x="456" y="30" font-size="17" fill="#6e7a86" text-anchor="end">Swift</text>
+        <text x="24" y="64" font-size="27" font-weight="700" fill="#56d364">8 ms</text>
+        <text x="456" y="64" font-size="17" fill="#6e7a86" text-anchor="end">27,604 files indexed</text>
+      </g>
+      <line x1="24" y1="214" x2="456" y2="214" stroke="#1e262f" stroke-width="1.5"/>
+
+      <!-- unport -->
+      <g transform="translate(0 214)">
+        <text x="24" y="30" font-size="21" fill="#e6edf3">unport</text>
+        <text x="456" y="30" font-size="17" fill="#6e7a86" text-anchor="end">TypeScript</text>
+        <text x="24" y="64" font-size="27" font-weight="700" fill="#56d364">2 ports</text>
+        <text x="456" y="64" font-size="17" fill="#6e7a86" text-anchor="end">shared by all projects</text>
+      </g>
+    </g>
+  </g>
+</svg>
