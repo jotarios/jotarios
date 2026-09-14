@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="pulseTitle pulseDesc">
   <title id="pulseTitle">Pulse</title>
-  <desc id="pulseDesc">CONTRIBUTIONS, 12 MO: 1,461. PULL REQUESTS, 12 MO: 198. PUBLIC REPOS: 31. STARS EARNED: 43. Regenerated 2026-09-07.</desc>
+  <desc id="pulseDesc">CONTRIBUTIONS, 12 MO: 1,457. PULL REQUESTS, 12 MO: 198. PUBLIC REPOS: 31. STARS EARNED: 43. Regenerated 2026-09-14.</desc>
   <rect width="1200" height="170" rx="24" fill="#0a0e13"/>
   <rect x="1" y="1" width="1198" height="168" rx="23" fill="none" stroke="#1e262f" stroke-width="1.5"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
     <text x="40" y="36" font-size="18" letter-spacing="2.4" fill="#6e7a86">PULSE</text>
-    <text x="1160" y="36" font-size="16" fill="#6e7a86" text-anchor="end">UPDATED 2026-09-07</text>
+    <text x="1160" y="36" font-size="16" fill="#6e7a86" text-anchor="end">UPDATED 2026-09-14</text>
     <line x1="0" y1="58" x2="1200" y2="58" stroke="#1e262f" stroke-width="1.5"/>
     <text x="40" y="98" font-size="16" fill="#6e7a86">CONTRIBUTIONS · 12 MO</text>
-    <text x="40" y="142" font-size="40" font-weight="700" fill="#56d364">1,461</text>
+    <text x="40" y="142" font-size="40" font-weight="700" fill="#56d364">1,457</text>
     <line x1="320" y1="78" x2="320" y2="146" stroke="#1e262f" stroke-width="1.5"/>
     <text x="344" y="98" font-size="16" fill="#6e7a86">PULL REQUESTS · 12 MO</text>
     <text x="344" y="142" font-size="40" font-weight="700" fill="#56d364">198</text>
